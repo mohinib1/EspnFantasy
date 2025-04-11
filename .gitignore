@@ -1,0 +1,16 @@
+# NPM/Yarn
+node_modules/
+
+# Build
+build/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# Private key
+*.pem
